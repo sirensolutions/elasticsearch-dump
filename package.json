@@ -48,7 +48,7 @@
     "socks5-https-client": "^1.2.1"
   },
   "devDependencies": {
-    "jsonpath": "1.0.2",
+    "jsonpath": "1.2.0",
     "mocha": "latest",
     "should": "latest",
     "standard": "^14.3.3"
